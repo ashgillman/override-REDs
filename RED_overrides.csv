@@ -1,0 +1,49 @@
+structure,red
+Urethra,1.039
+urethra^JG,1.039
+GTV,1.039
+GTV^JG,1.039
+Prostate,1.039
+Prostate^JG,1.039
+NVB_L,0.977
+NVB_R,0.977
+NVB^L,0.977
+NVB^R,0.977
+NVB^Left,0.977
+NVB^Right,0.977
+IPA_L,0.977
+IPA_R,0.977
+Bladder,1.021
+Bladder_Opt,1.021
+Bladder_Small,1.021
+Bladder_deform,1.021
+Bladder_Optimise,1.021
+SeminalVes,1.027
+SV,1.027
+SV^JG,1.027
+Rectum,0.984
+Rectum^JG,0.984
+rectum^JG,0.984
+PenileBulb,0.977
+penile bulb,0.977
+Penile Bulb,0.977
+SpaceOAR,1.101
+spaceOAR,1.101
+Colon_Sigmoid,0.923
+Bowel_Large,0.886
+Bowel_Small,0.962
+Femur_Head_L,1.189
+Femur_Head_R,1.189
+FemHead_L,1.189
+FemHead_R,1.189
+Bones_Pelvic,1.202
+Bone_Pelvic,1.202
+Bone,1.202
+Bones,1.202
+patient,0.977
+int pud L,0.977
+int pud R,0.977
+int_pud_Right,0.977
+int_pud_left,0.977
+Int_pud_L,0.977
+Int_pud_R,0.977
