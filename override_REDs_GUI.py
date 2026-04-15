@@ -36,7 +36,7 @@ class StructureRow:
         self.save_override_callback = save_override_callback
 
         self.force_var = tk.BooleanVar(value=entry.is_forced_override)
-        self.red_var = tk.StringVar(value=csv_override if csv_override is not None else entry.values[2])
+        self.red_var = tk.StringVar(value=entry.values[2])
         self.csv_var = tk.StringVar(value=csv_override or "")
 
         self.name_label = ttk.Label(parent, text=entry.name, anchor="w")
